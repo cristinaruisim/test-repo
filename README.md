@@ -1,2 +1,3 @@
 # Readme del repositorio
-Información
+Información del proyecto que es muy guay
+
